@@ -1,0 +1,13 @@
+C:\Users\Emilio\source\repos\tp5---2021-Emi912\TP5\TP5\TP5\obj\Debug\netcoreapp3.1\TP5.csprojAssemblyReference.cache
+C:\Users\Emilio\source\repos\tp5---2021-Emi912\TP5\TP5\TP5\obj\Debug\netcoreapp3.1\TP5.AssemblyInfoInputs.cache
+C:\Users\Emilio\source\repos\tp5---2021-Emi912\TP5\TP5\TP5\obj\Debug\netcoreapp3.1\TP5.AssemblyInfo.cs
+C:\Users\Emilio\source\repos\tp5---2021-Emi912\TP5\TP5\TP5\obj\Debug\netcoreapp3.1\TP5.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\source\repos\tp5---2021-Emi912\TP5\TP5\TP5\bin\Debug\netcoreapp3.1\TP5.exe
+C:\Users\Emilio\source\repos\tp5---2021-Emi912\TP5\TP5\TP5\bin\Debug\netcoreapp3.1\TP5.deps.json
+C:\Users\Emilio\source\repos\tp5---2021-Emi912\TP5\TP5\TP5\bin\Debug\netcoreapp3.1\TP5.runtimeconfig.json
+C:\Users\Emilio\source\repos\tp5---2021-Emi912\TP5\TP5\TP5\bin\Debug\netcoreapp3.1\TP5.runtimeconfig.dev.json
+C:\Users\Emilio\source\repos\tp5---2021-Emi912\TP5\TP5\TP5\bin\Debug\netcoreapp3.1\TP5.dll
+C:\Users\Emilio\source\repos\tp5---2021-Emi912\TP5\TP5\TP5\bin\Debug\netcoreapp3.1\TP5.pdb
+C:\Users\Emilio\source\repos\tp5---2021-Emi912\TP5\TP5\TP5\obj\Debug\netcoreapp3.1\TP5.dll
+C:\Users\Emilio\source\repos\tp5---2021-Emi912\TP5\TP5\TP5\obj\Debug\netcoreapp3.1\TP5.pdb
+C:\Users\Emilio\source\repos\tp5---2021-Emi912\TP5\TP5\TP5\obj\Debug\netcoreapp3.1\TP5.genruntimeconfig.cache
